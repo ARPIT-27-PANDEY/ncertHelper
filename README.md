@@ -70,12 +70,12 @@ Ensure you have the following installed:
 
 1. *Clone the repository*:
    bash
-   git clone https://github.com/your-repo-link/ncert-helper-app.git
+   git clone https://github.com/your-repo-link/ncertHELPER.git
    
 
 2. *Change into the project directory*:
    bash
-   cd ncert-helper-app
+   cd NCERT_HELPER_MAIN
    
 
 3. **Add your API keys to the .env file**:
